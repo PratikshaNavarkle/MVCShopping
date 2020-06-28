@@ -32,7 +32,7 @@ p.one {
 
 
 	<h1 align="center" id="heading">
-		<p class="one">Welcome to Direct Stationery
+		<p class="one">Welcome to Direct Stationery Pratiksha
 	</h1>
 	<hr>
 	<form action="LoginValidate.jsp" method="post" name="myform">
