@@ -1,0 +1,82 @@
+@CHARSET "ISO-8859-1";
+.A
+{
+	 width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.B
+{
+	 width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#buttonB{
+	margin-right: 50px;
+	
+}
+
+#headO
+{
+	margin-left: 350px;
+	margin-top: 100px;
+	background-color: #458989;
+	color: #ffff4a;
+	text-align: center;
+	border: thin;
+	width: 50%;
+}
+
+#first
+{
+	color: black;
+	background-color: #000000;
+}
+
+#buttonF
+{
+	background-color: #000000;
+	margin-top: 300px;
+}
+#para {
+	color: #0000a0;
+	background-color: #ffffff;
+	text-align: left;
+	margin-right: 20cm;
+	
+}
+#lbut {
+	
+	margin-left:  580px;
+	
+	
+}
+#aus{
+	
+	margin-left: 1150px;
+}
+
+#avail
+{
+	margin-left: 0px;
+	text-align: left;
+}
+#Y
+{
+	color: white;
+	background: blue;
+	margin-bottom: 30px;
+}
+
+#Tab
+{
+	margin-top: 200px; 
+}

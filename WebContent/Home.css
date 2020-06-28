@@ -1,0 +1,159 @@
+@charset "ISO-8859-1";
+
+.body{
+	
+	Margin: 50;
+	font-family:Verdana;
+}
+
+
+
+
+#heading
+{
+	
+	color: white;
+	
+}
+
+#login
+{
+	color: black;
+	border: none;
+}
+
+#table1
+{
+	width: 35%;
+	padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+	
+}
+
+#validate
+{
+	color: red;
+	text-align: center;
+	
+}
+#go
+{
+	text-align: center;
+	width: 20px;
+}
+
+#table3
+{
+	width:35%;
+	colour: yellow;
+	border-collapse: separate;
+	border: 3px solid black;
+	padding: 20px;
+	top: 50%;
+	transform:translate(-30%,-40%);
+		
+	
+}
+
+.register1
+{
+	
+	width: 300px ;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform:translate(-50%,-50%,);
+	background-colour: #98FB98;
+	border: none;
+	
+}
+#reg{
+	
+	
+	height: 50px;
+	
+	margin-bottom: 10px;
+	
+	color: white;
+}
+
+
+	
+
+#table4{
+	
+	width:45%;
+	
+	border-collapse: separate;
+	border:solid black;
+	padding: 20px;
+	transform:translate(-30%,-40%);
+	margin-top:230px;
+	margin-left:100px;
+	
+	
+	
+}
+#wel
+{
+	 
+	  border-style: solid;
+	  colour: #ffffff;
+      background-color: #8080ff;
+      margin-top: 0px;
+      margin-left: 610px;
+      align-content: center;
+      width: 20%;
+  
+
+	
+	
+	
+}
+#userbtn{
+	
+	text-align: left;
+	margin-left: 40px;
+
+	
+	
+	
+	
+}
+#shopbtn{
+	
+	text-align:center;
+	
+	margin-top: 40px;
+	
+}
+#logoutbtn{
+	
+	text-align: right;
+	margin-bottom: 10px;
+	
+	margin-right: 70px;
+	
+}
+
+#aubtn{
+	
+	text-align: left;
+	margin-bottom: 50px;
+	margin-left: 40px;
+	right: 100%; 
+}
+#B
+{
+	text-align: center;
+	color: blue;
+}
+
+#A
+{
+	margin-top: 80px;
+	
+}
